@@ -1,2 +1,3 @@
 # watch_zone
-e-commerce website "watch zone"
+complete e-commerce website "watch zone"
+UI, DB, Admin
